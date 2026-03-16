@@ -231,6 +231,10 @@ Proyecto desarrollado por:
 Para la materia de **Tópicos Avanzados de Programación**
 
 # Evidencia
+<img width="1098" height="966" alt="Captura de pantalla 2026-03-15 a la(s) 18 52 59" src="https://github.com/user-attachments/assets/7782387f-1b37-4ff1-b197-2308cd680aed" />
+
+Página web 
+<img width="1066" height="991" alt="Captura de pantalla 2026-03-16 a la(s) 11 27 13" src="https://github.com/user-attachments/assets/28a2677d-c6a0-4cea-8e84-d672280a2e3c" />
 
 # Códigos Finales
 ```
